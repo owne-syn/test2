@@ -1,14 +1,13 @@
-  "name": "MyPythonApp",
-  "version": "1.0.0",
-  "description": "A sample Python application.",
-  "author": "Your Name",
-  "license": "MIT",
-  "dependencies": {
-    "flask": "^2.1.0",
-    "requests": "^2.28.1"
+{
+  "configuration": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "synacktiv-test",
+    "type": "object",
+    "properties": {},
+    "required": []
   },
-  "scripts": {
-    "start": "python app.py",
-    "test": "pytest"
-  }
+  "description": "test-synacktiv",
+  "name": "synacktiv-test",
+  "uuid": "4c41e5dc-4786-4c52-97e2-beca9c7ccc11",
+  "version": "0.1.0"
 }
