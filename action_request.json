@@ -1,6 +1,6 @@
 {
   "name": "Request",
-  "description": null,
+  "description": "test",
   "uuid": "3e0fd673-1447-5b46-b0cc-02f9f7e5cd62",
   "docker_parameters": "Request",
   "arguments": {
