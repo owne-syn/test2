@@ -1,0 +1,14 @@
+  "name": "MyPythonApp",
+  "version": "1.0.0",
+  "description": "A sample Python application.",
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "flask": "^2.1.0",
+    "requests": "^2.28.1"
+  },
+  "scripts": {
+    "start": "python app.py",
+    "test": "pytest"
+  }
+}
